@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Segment TensorRT batch=3 fix (#7952)
